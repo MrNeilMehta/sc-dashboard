@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pip install pulp numpy --target /tmp/python && npm run build",
+  "framework": "nextjs",
+  "functions": {
+    "app/api/**": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
