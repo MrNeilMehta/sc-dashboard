@@ -3,7 +3,7 @@
 An end-to-end supply chain simulation platform built to demonstrate ERP-style data modeling, stochastic demand simulation, and linear programming optimization — skills directly applicable to Auger's autonomous supply chain platform.
 
 ## Live Demo
-[Deployed on Vercel] → [your-url.vercel.app]
+Deployed on Vercel → [[your-url.vercel.app]](https://sc-dashboard-delta.vercel.app/)
 
 ---
 
